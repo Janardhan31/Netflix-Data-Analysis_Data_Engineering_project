@@ -5,7 +5,7 @@
 This project demonstrates a modern **ELT (Extract, Load, Transform)** pipeline built for processing and modeling large-scale movie data using **Amazon S3**, **Snowflake Data Warehouse**, and **dbt (data build tool)**. The pipeline transforms raw CSV data into analytical data models optimized for reporting, exploration, and downstream consumption.
 
 ---
-![Architecture](./Screenshot_2025-06-18_181627.png)
+![Architecture](./architecture.png)
 ---
 
 ## 🚀 Tech Stack
